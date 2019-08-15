@@ -6,6 +6,12 @@ The following content is divided according to different subject:
 
 ## Fashion Compatibility and Recommendation
 
+### Compatibility Interpretation
+
+* [Outfit Compatibility Prediction and Diagnosis with Multi-Layered Comparison Network](https://arxiv.org/abs/1907.11496)
+* [Interpretable Fashion Matching with Rich Attributes](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
+* [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network](http://www.yongfeng.me/attach/chen-sigir2019.pdf)
+
 ## Fashion Editing
 
 * [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
