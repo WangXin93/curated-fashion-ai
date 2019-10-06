@@ -30,6 +30,11 @@ The following content is divided according to different subject:
 
   <img src="assets\1561706616262.png" alt="drawing" width="600"/>
 
+### Image-based Virtual Try-on
+
+* [VITON: An Image-based Virtual Try-on Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
+* [Virtually Trying on New Clothing with Arbitrary Poses](https://xuemengsong.github.io/fp452-zhengA.pdf)
+
 ## Datasets
 
 * [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf)
