@@ -74,6 +74,7 @@ The following content is divided according to different subject:
 * [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
 * [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/abs/1906.00884)
 * [Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN](https://arxiv.org/abs/1904.07460)
+* [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096)
 
 ## Similar Repository
 
