@@ -16,6 +16,7 @@ The following content is divided according to different subject:
 
 * [Context-Aware Visual Compatibility Prediction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cucurull_Context-Aware_Visual_Compatibility_Prediction_CVPR_2019_paper.pdf)
 * [Tiered Deep Similarity Search for Fashion](https://rose.ntu.edu.sg/Publications/Documents/Fashion%20Analytics/Tiered%20Similarity%20Search%20for%20Fashion.pdf)
+* [TransNFCM: Translation-Based Neural Fashion Compatibility Modeling](https://arxiv.org/abs/1812.10021)
 
 ### Ourfit Compatibility
 * [POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](https://arxiv.org/pdf/1905.01866.pdf)
