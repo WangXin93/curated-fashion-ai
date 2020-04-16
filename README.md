@@ -31,12 +31,27 @@ The following content is divided according to different subject:
 
 * [Explainable Fashion Recommendation: A Semantic Attribute Region Guided Approach](https://arxiv.org/pdf/1905.12862v1.pdf)
 
-  <img src="assets\1561706616262.png" alt="drawing" width="600"/>
-
 ### Image-based Virtual Try-on
 
 * [VITON: An Image-based Virtual Try-on Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
 * [Virtually Trying on New Clothing with Arbitrary Poses](https://xuemengsong.github.io/fp452-zhengA.pdf)
+
+### Compatibility Interpretation
+
+* [Outfit Compatibility Prediction and Diagnosis with Multi-Layered Comparison Network](https://arxiv.org/abs/1907.11496)
+* [Interpretable Fashion Matching with Rich Attributes](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
+* [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network](http://www.yongfeng.me/attach/chen-sigir2019.pdf)
+
+### Fashion Editing
+
+* [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
+* [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/abs/1906.00884)
+* [Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN](https://arxiv.org/abs/1904.07460)
+* [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096)
+
+## Workshop
+
+* [ICCV 2019 Second Workshop on Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative/home?authuser=0)
 
 ## Datasets
 
@@ -63,23 +78,10 @@ The following content is divided according to different subject:
 
 * [Clothing1M](https://github.com/Cysu/noisy_label)
 
+## Company
 
-### Compatibility Interpretation
-
-* [Outfit Compatibility Prediction and Diagnosis with Multi-Layered Comparison Network](https://arxiv.org/abs/1907.11496)
-* [Interpretable Fashion Matching with Rich Attributes](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
-* [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network](http://www.yongfeng.me/attach/chen-sigir2019.pdf)
-
-### Fashion Editing
-
-* [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
-* [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/abs/1906.00884)
-* [Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN](https://arxiv.org/abs/1904.07460)
-* [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096)
-
-## Workshop
-
-* [ICCV 2019 Second Workshop on Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative/home?authuser=0)
+* [Chicisimo](https://hackernoon.com/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
+* [infimind](https://www.infimind.com/#)
 
 ## Similar Repository
 
