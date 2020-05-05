@@ -2,11 +2,13 @@
 
 Fashion study is an interesting interdisciplinary subject between computer vision, natural language processing, recommendation system and fashion design etc. The research about fashion and artificial intelligence (AI) is rapidly evolved in this decade. This repository curates recent researches and resources about fashion and AI, hopes to help researchers who are interested in this field.
 
-The following content is divided according to different subject:
+The following content is divided according to different subjects:
 
-## Paper
+## Papers
 
 ### Fashion recognition
+
+* [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations](https://liuziwei7.github.io/projects/DeepFashion.html)
 
 ### Landmark Detection
 
@@ -55,28 +57,15 @@ The following content is divided according to different subject:
 
 ## Datasets
 
-* [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf)
-
-  The iFashion-Attribute dataset includes one million high-quality annotated fashion images. The label space includes 8 groups of 228 fine-grained attributes. The labels are curated by fashion experts. Each image has average 5 individual labels. Models pretrained on iFashion-attribute achieve superior transfer learning performance on fashion related tasks.
-
-* [imaterialist-2019]()
-
-* [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-
-  * DeepFashion-C
-  * DeepFashion-A
-
-* [WTBI](http://tamaraberg.com/street2shop/)
-
-* [ACWS](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/)
-
-  80,000 images with 15 fashion classes.
-
-* [DCSA](http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf)
-
-  1856 images with 26 attributes, including 24 binary-class attributes and 3 multi-class attributes.
-
-* [Clothing1M](https://github.com/Cysu/noisy_label)
+|    | Image | Text | Category  | Attribute | Landmark | Box | Mask | Relation | Other |
+|---|---|---|---|---|---|---|---|---|---|
+| [ACWS](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/) | x |   | x |   |   |   |   |   |   |
+| [Clothing1M](https://github.com/Cysu/noisy_label) | x |   |   | x |   |   |   |   |   |
+| [DCSA](http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf) | x |   |   | x |   |   |   |   |   |
+| [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) | x |   | x | x |   |   |   | street2shop  |   |
+| [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf) | x |   | x | x |   |   |   |   |   |
+| [imaterialist-2019](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) | x |   | x | x |   |   | x |   |   |
+| [WTBI](http://tamaraberg.com/street2shop/) | x |   |   |   |   |   |   | street2shop |   |
 
 ## Company
 
@@ -86,4 +75,4 @@ The following content is divided according to different subject:
 ## Similar Repository
 
 - [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
-- [awesome-fashion-ai ](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
