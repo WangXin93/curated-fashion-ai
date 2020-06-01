@@ -10,9 +10,10 @@ The following content is divided according to different subjects:
 
 * [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations](https://liuziwei7.github.io/projects/DeepFashion.html)
 
-### Landmark Detection
+### Fashion Detection
 
 * [Layout-Graph Reasoning for Fashion Landmark Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Layout-Graph_Reasoning_for_Fashion_Landmark_Detection_CVPR_2019_paper.pdf)
+* [DeepMark: One-Shot Clothing Detection](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Sidnev_DeepMark_One-Shot_Clothing_Detection_ICCVW_2019_paper.pdf)
 
 ### Fashion Recommendation
 
