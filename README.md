@@ -52,6 +52,10 @@ The following content is divided according to different subjects:
 * [Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN](https://arxiv.org/abs/1904.07460)
 * [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096)
 
+### 3D Garment
+
+* [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images](https://arxiv.org/pdf/2003.12753v1.pdf)
+
 ## Workshop
 
 * [ICCV 2019 Second Workshop on Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative/home?authuser=0)
