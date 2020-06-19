@@ -4,6 +4,14 @@ Fashion study is an interesting interdisciplinary subject between computer visio
 
 The following content is divided according to different subjects:
 
+<details><summary>Table of Contents</summary><p>
+
+* [Papers](#1-papers)
+* [Workshops](#2-workshops)
+* [Datasets](#3-datasets)
+* [Companies](#4-companies)
+</p></details><p></p>
+
 ## 1. Papers
 
 ### 1.1 Fashion recognition
@@ -18,11 +26,13 @@ The following content is divided according to different subjects:
 ### 1.3 Fashion Recommendation
 
 #### 1.3.1 Pairwise Recommendation
+
 * [Context-Aware Visual Compatibility Prediction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cucurull_Context-Aware_Visual_Compatibility_Prediction_CVPR_2019_paper.pdf)
 * [Tiered Deep Similarity Search for Fashion](https://rose.ntu.edu.sg/Publications/Documents/Fashion%20Analytics/Tiered%20Similarity%20Search%20for%20Fashion.pdf)
 * [TransNFCM: Translation-Based Neural Fashion Compatibility Modeling](https://arxiv.org/abs/1812.10021)
 
 #### 1.3.2 Outfit Compatibility
+
 * [POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](https://arxiv.org/pdf/1905.01866.pdf)
 
 #### 1.3.3 Compatibility Interpretation
@@ -57,24 +67,24 @@ The following content is divided according to different subjects:
 
 * [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](http://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf)
 
-## 2. Workshop
+## 2. Workshops
 
 * [ICCV 2019 Second Workshop on Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative/home?authuser=0)
 
 ## 3. Datasets
 
-|    | Image | Text | Category  | Attribute | Landmark | Box | Mask | Relation | Other |
-|---|---|---|---|---|---|---|---|---|---|
-| [ACWS](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/) | :white_check_mark: |   | :white_check_mark: |   |   |   |   |   |   |
-| [Clothing1M](https://github.com/Cysu/noisy_label) | :white_check_mark: |   |   | :white_check_mark: |   |   |   |   |   |
-| [DCSA](http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf) | :white_check_mark: |   |   | :white_check_mark: |   |   |   |   |   |
-| [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) | :white_check_mark: |   | :white_check_mark: | :white_check_mark: |   |   |   | street2shop  |   |
-| [DeepFashion2](https://github.com/switchablenorms/DeepFashion2) | :white_check_mark: |   | :white_check_mark: | :white_check_mark: |   |   | :white_check_mark: | street2shop  |   |
-| [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf) | :white_check_mark: |   | :white_check_mark: | :white_check_mark: |   |   |   |   |   |
-| [imaterialist-2019](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) | :white_check_mark: |   | :white_check_mark: | :white_check_mark: |   |   | :white_check_mark: |   |   |
-| [WTBI](http://tamaraberg.com/street2shop/) | :white_check_mark: |   |   |   |   |   |   | street2shop |   |
+|                                                                                                 | Image              | Text | Category           | Attribute          | Landmark | Box | Mask               | Relation    | Other |
+|-------------------------------------------------------------------------------------------------|--------------------|------|--------------------|--------------------|----------|-----|--------------------|-------------|-------|
+| [ACWS](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/)                                     | :white_check_mark: |      | :white_check_mark: |                    |          |     |                    |             |       |
+| [Clothing1M](https://github.com/Cysu/noisy_label)                                               | :white_check_mark: |      |                    | :white_check_mark: |          |     |                    |             |       |
+| [DCSA](http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf) | :white_check_mark: |      |                    | :white_check_mark: |          |     |                    |             |       |
+| [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)                            | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     |                    | street2shop |       |
+| [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)                                 | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: | street2shop |       |
+| [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf)   | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     |                    |             |       |
+| [imaterialist-2019](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6)                   | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: |             |       |
+| [WTBI](http://tamaraberg.com/street2shop/)                                                      | :white_check_mark: |      |                    |                    |          |     |                    | street2shop |       |
 
-## 4. Company
+## 4. Companies
 
 * [Chicisimo](https://hackernoon.com/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
 * [infimind](https://www.infimind.com/#)
@@ -83,3 +93,4 @@ The following content is divided according to different subjects:
 
 - [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
 - [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+
