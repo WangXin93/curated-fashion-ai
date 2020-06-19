@@ -17,6 +17,7 @@ The following content is divided according to different subjects:
 ### 1.1 Fashion recognition
 
 * [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations](https://liuziwei7.github.io/projects/DeepFashion.html)
+* [Learning the Latent "Look"](http://vision.cs.utexas.edu/projects/StyleEmbedding/)
 
 ### 1.2 Fashion Detection
 
@@ -73,16 +74,39 @@ The following content is divided according to different subjects:
 
 ## 3. Datasets
 
-|                                                                                                 | Image              | Text | Category           | Attribute          | Landmark | Box | Mask               | Relation    | Other |
-|-------------------------------------------------------------------------------------------------|--------------------|------|--------------------|--------------------|----------|-----|--------------------|-------------|-------|
-| [ACWS](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/)                                     | :white_check_mark: |      | :white_check_mark: |                    |          |     |                    |             |       |
-| [Clothing1M](https://github.com/Cysu/noisy_label)                                               | :white_check_mark: |      |                    | :white_check_mark: |          |     |                    |             |       |
-| [DCSA](http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf) | :white_check_mark: |      |                    | :white_check_mark: |          |     |                    |             |       |
-| [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)                            | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     |                    | street2shop |       |
-| [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)                                 | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: | street2shop |       |
-| [imaterialist-2018](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf)   | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     |                    |             |       |
-| [imaterialist-2019](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6)                   | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: |             |       |
-| [WTBI](http://tamaraberg.com/street2shop/)                                                      | :white_check_mark: |      |                    |                    |          |     |                    | street2shop |       |
+|                         | Image              | Text               | Category           | Attribute          | Landmark | Box | Mask               | Relation      | Other     |
+|-------------------------|--------------------|--------------------|--------------------|--------------------|----------|-----|--------------------|---------------|-----------|
+| [ACWS][1]               | :white_check_mark: |                    | :white_check_mark: |                    |          |     |                    |               |           |
+| [Hipster Wars][11]      | :white_check_mark: |                    | :white_check_mark: |                    |          |     |                    |               |           |
+| [Clothing1M][2]         | :white_check_mark: |                    |                    | :white_check_mark: |          |     |                    |               |           |
+| [DCSA][3]               | :white_check_mark: |                    |                    | :white_check_mark: |          |     |                    |               |           |
+| [Paperdoll][13]         | :white_check_mark: |                    |                    |                    |          |     | :white_check_mark: |               |           |
+| [co-parsing][14]        | :white_check_mark: |                    |                    |                    |          |     | :white_check_mark: |               |           |
+| [DeepFashion][4]        | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |          |     |                    | street2shop   |           |
+| [DeepFashion2][5]       | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: | street2shop   |           |
+| [imaterialist-2018][6]  | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |          |     |                    |               |           |
+| [imaterialist-2019][7]  | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |          |     | :white_check_mark: |               |           |
+| [WTBI][8]               | :white_check_mark: |                    |                    |                    |          |     |                    | street2shop   |           |
+| [StreetStyle][9]        | :white_check_mark: |                    |                    | :white_check_mark: |          |     |                    |               | TimeStamp |
+| [FashionVC][10]         | :white_check_mark: | :white_check_mark: |                    |                    |          |     |                    | Compatiblity  |           |
+| [Polyvore-Maryland][15] | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |          |     |                    | Compatibility |           |
+| [MVC][12]               | :white_check_mark: |                    |                    |                    |          |     |                    |               | MultiView |
+
+[1]: https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/
+[2]: https://github.com/Cysu/noisy_label
+[3]: http://chenlab.ece.cornell.edu/people/Andy/publications/ECCV2012_ClothingAttributes.pdf
+[4]: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+[5]: https://github.com/switchablenorms/DeepFashion2
+[6]: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf
+[7]: https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
+[8]: http://tamaraberg.com/street2shop/
+[9]: http://streetstyle.cs.cornell.edu/#dataset
+[10]: https://drive.google.com/open?id=1HtPwNgL3_aW7APGgyIIjMcHUQaz3AORz
+[11]: http://tamaraberg.com/hipsterwars/
+[12]: http://mvc-datasets.github.io/MVC/
+[13]: https://github.com/kyamagu/paperdoll
+[14]: https://github.com/bearpaw/clothing-co-parsing
+[15]: https://github.com/xthan/polyvore-dataset
 
 ## 4. Companies
 
