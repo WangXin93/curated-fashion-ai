@@ -117,4 +117,5 @@ The following content is divided according to different subjects:
 
 - [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
 - [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [mmfashion](https://github.com/open-mmlab/mmfashion)
 
