@@ -91,6 +91,7 @@ The following content is divided according to different subjects:
 | [FashionVC][10]         | :white_check_mark: | :white_check_mark: |                    |                    |          |     |                    | Compatiblity  |           |
 | [Polyvore-Maryland][15] | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |          |     |                    | Compatibility |           |
 | [MVC][12]               | :white_check_mark: |                    |                    |                    |          |     |                    |               | MultiView |
+| [ModaNet][16]               | :white_check_mark: |                    |                    |                    |          |     |  :white_check_mark: |               |       |
 
 [1]: https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/
 [2]: https://github.com/Cysu/noisy_label
@@ -107,6 +108,7 @@ The following content is divided according to different subjects:
 [13]: https://github.com/kyamagu/paperdoll
 [14]: https://github.com/bearpaw/clothing-co-parsing
 [15]: https://github.com/xthan/polyvore-dataset
+[16]: https://github.com/eBay/modanet
 
 ## 4. Companies
 
