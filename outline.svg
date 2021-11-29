@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="452.68155mm"
+   width="486.00247mm"
    height="178.41743mm"
-   viewBox="0 0 452.68156 178.41743"
+   viewBox="0 0 486.00248 178.41743"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.37900995"
-     inkscape:cx="660.93252"
-     inkscape:cy="445.89858"
+     inkscape:cx="713.70158"
+     inkscape:cy="65.961329"
      inkscape:window-width="1440"
      inkscape:window-height="837"
      inkscape:window-x="-8"
@@ -55,7 +55,7 @@
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(96.21073,-56.941755)">
+     transform="translate(125.34312,-56.941755)">
     <ellipse
        style="fill:#aaccff;fill-opacity:0.4;stroke:none;stroke-width:0.264999;stroke-opacity:0.4"
        id="path1816-3"
@@ -162,13 +162,13 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
-       x="276.89178"
+       x="281.08032"
        y="112.90303"
        id="text6376"><tspan
          sodipodi:role="line"
          id="tspan6374"
          style="stroke-width:0.264583"
-         x="276.89178"
+         x="281.08032"
          y="112.90303">Recommendation</tspan></text>
     <text
        xml:space="preserve"
@@ -314,7 +314,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 249.76542,98.43512 25.34764,9.23322"
+       d="m 249.76542,98.43512 27.7037,8.70965"
        id="path22437"
        sodipodi:nodetypes="cc" />
     <path
@@ -350,5 +350,50 @@
        d="m 240.64258,103.54042 52.61655,31.39403"
        id="path3129"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="-111.56873"
+       y="68.809296"
+       id="text1305"><tspan
+         sodipodi:role="line"
+         id="tspan1303"
+         style="stroke-width:0.264583"
+         x="-111.56873"
+         y="68.809296">Trend Analysis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="-125.53053"
+       y="91.148209"
+       id="text2761"><tspan
+         sodipodi:role="line"
+         id="tspan2759"
+         style="stroke-width:0.264583"
+         x="-125.53053"
+         y="91.148209">Prototype Generation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="-119.24772"
+       y="115.58137"
+       id="text4312"><tspan
+         sodipodi:role="line"
+         id="tspan4310"
+         style="stroke-width:0.264583"
+         x="-119.24772"
+         y="115.58137">Pattern Generation</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M -6.8197015,78.553777 -38.96729,66.016934"
+       id="path4427" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m -13.329788,88.443687 -13.246393,0.173934"
+       id="path4542" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M -7.0071826,98.11194 -32.248168,112.35271"
+       id="path4544" />
   </g>
 </svg>
