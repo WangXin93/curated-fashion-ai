@@ -1,5 +1,7 @@
 # Curated Fashion AI
 
+![cover](./outline.svg)
+
 Fashion study is an interesting interdisciplinary subject between computer vision, natural language processing, recommendation system and fashion design etc. The research about fashion and artificial intelligence (AI) is rapidly evolved in this decade. This repository curates recent researches and resources about fashion and AI, hopes to help researchers who are interested in this field.
 
 The following content is divided according to different subjects:
