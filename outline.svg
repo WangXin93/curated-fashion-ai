@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="486.00247mm"
-   height="178.41743mm"
-   viewBox="0 0 486.00248 178.41743"
+   width="490.73062mm"
+   height="194.5719mm"
+   viewBox="0 0 490.73063 194.57189"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37900995"
-     inkscape:cx="713.70158"
-     inkscape:cy="65.961329"
+     inkscape:zoom="0.33575603"
+     inkscape:cx="978.38898"
+     inkscape:cy="74.458826"
      inkscape:window-width="1440"
      inkscape:window-height="837"
      inkscape:window-x="-8"
@@ -55,7 +55,7 @@
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(125.34312,-56.941755)">
+     transform="translate(125.34312,-40.787291)">
     <ellipse
        style="fill:#aaccff;fill-opacity:0.4;stroke:none;stroke-width:0.264999;stroke-opacity:0.4"
        id="path1816-3"
@@ -151,25 +151,25 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
-       x="284.11737"
-       y="89.569023"
+       x="288.84552"
+       y="73.414558"
        id="text3474"><tspan
          sodipodi:role="line"
          id="tspan3472"
          style="stroke-width:0.264583"
-         x="284.11737"
-         y="89.569023">Visual Search</tspan></text>
+         x="288.84552"
+         y="73.414558">Visual Search</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
-       x="281.08032"
-       y="112.90303"
+       x="285.80847"
+       y="96.748566"
        id="text6376"><tspan
          sodipodi:role="line"
          id="tspan6374"
          style="stroke-width:0.264583"
-         x="281.08032"
-         y="112.90303">Recommendation</tspan></text>
+         x="285.80847"
+         y="96.748566">Recommendation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
@@ -206,14 +206,14 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
-       x="281.89047"
-       y="64.780045"
+       x="286.61862"
+       y="48.62558"
        id="text10038"><tspan
          sodipodi:role="line"
          id="tspan10036"
          style="stroke-width:0.264583"
-         x="281.89047"
-         y="64.780045">Categorization</tspan></text>
+         x="286.61862"
+         y="48.62558">Categorization</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
@@ -304,17 +304,17 @@
        id="path22016" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 246.689,79.003502 277.04274,61.645048"
+       d="M 242.63377,76.89687 282.95291,47.06663"
        id="path22230"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 254.47889,88.040408 25.08034,-3.324151"
+       d="M 252.95591,84.594909 285.4694,70.925862"
        id="path22435"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 249.76542,98.43512 27.7037,8.70965"
+       d="m 253.77497,93.584144 28.8163,0.164242"
        id="path22437"
        sodipodi:nodetypes="cc" />
     <path
@@ -337,17 +337,17 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
-       x="297.70178"
-       y="138.38983"
+       x="302.42993"
+       y="120.26531"
        id="text3014"><tspan
          sodipodi:role="line"
          id="tspan3012"
          style="stroke-width:0.264583"
-         x="297.70178"
-         y="138.38983">ChatBot</tspan></text>
+         x="302.42993"
+         y="120.26531">ChatBot</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
-       d="m 240.64258,103.54042 52.61655,31.39403"
+       d="m 248.49346,99.412262 51.85787,18.579698"
        id="path3129"
        sodipodi:nodetypes="cc" />
     <text
@@ -395,5 +395,20 @@
        style="fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
        d="M -7.0071826,98.11194 -32.248168,112.35271"
        id="path4544" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="288.57953"
+       y="144.25667"
+       id="text1494"><tspan
+         sodipodi:role="line"
+         id="tspan1492"
+         style="stroke-width:0.264583"
+         x="288.57953"
+         y="144.25667">Size Prediction</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 240.47659,103.60521 43.95203,35.6849"
+       id="path2308" />
   </g>
 </svg>
